@@ -1,4 +1,4 @@
-# calude-history-browser
+# claude-history-browser
 
 This skill browses any project's chat history on demand within your Claude environment.
 
@@ -19,8 +19,8 @@ said it).
 ## Install
 
 ```
-/plugin marketplace add sumanoj/calude-history-browser
-/plugin install chat-history@claude-chat-history
+/plugin marketplace add sumanoj/claude-history-browser
+/plugin install chat-history@claude-history-browser
 ```
 
 Restart Claude Code (or start a new session) so the skill loads.
