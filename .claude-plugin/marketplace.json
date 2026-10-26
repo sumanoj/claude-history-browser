@@ -1,0 +1,14 @@
+{
+  "name": "claude-chat-history",
+  "owner": {
+    "name": "sumanoj"
+  },
+  "description": "Search past Claude Code chat history for a topic, decision or command.",
+  "plugins": [
+    {
+      "name": "chat-history",
+      "source": "./plugins/chat-history",
+      "description": "Finds topics, decisions, commands and answers from earlier Claude Code sessions in this project."
+    }
+  ]
+}

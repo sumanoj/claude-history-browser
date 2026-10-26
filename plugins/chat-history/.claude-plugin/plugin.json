@@ -1,0 +1,7 @@
+{
+  "name": "chat-history",
+  "version": "1.0.0",
+  "description": "Finds topics, decisions, commands and answers from earlier Claude Code sessions in this project.",
+  "author": {"name": "sumanoj"},
+  "repository": "https://github.com/sumanoj/calude-history-browser"
+}
